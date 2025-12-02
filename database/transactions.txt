@@ -1,0 +1,2 @@
+2025-11-29,expense,Shopping,buy a new mobile ,2000000
+2025-11-03,expense,Bills,electricity bill,600000
