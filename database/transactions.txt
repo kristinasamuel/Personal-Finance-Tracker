@@ -1,2 +1,4 @@
 2025-11-29,expense,Shopping,buy a new mobile ,2000000
 2025-11-03,expense,Bills,electricity bill,600000
+2025-12-03,income,Salary,freelancer,40000000
+2025-12-03,expense,Food,,1
